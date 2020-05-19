@@ -1,2 +1,2 @@
-# joshua.github.io
+# joshuaclark.com
 My webpage
